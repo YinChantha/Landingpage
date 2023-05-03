@@ -1,8 +1,6 @@
-# Let's Build with Tailwind CSS - Responsive Navbar
+# Let's Build with Tailwind CSS
 
-This project users a [simple starter project](https://github.com/tailwindcss/playground.git) for playing around with Tailwind in a proper PostCSS environment.
-
-To get started:
+you can start using this poject by
 
 1. Clone the repository:
 
